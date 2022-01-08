@@ -3,11 +3,11 @@
  <summary>
    Number Theory
  </summary>
- 
  <br>
-- [ ] Pattern Problems
-- [ ] Linear Search
-
+| Topic                                                       |Status|
+| ----------------------------------------------------------- | ---- |
+| <input type="checkbox" disabled checked /> Pattern Problem  |      |
+| <input type="checkbox" disabled /> Linear Search            |      |
  
  </details>
  
