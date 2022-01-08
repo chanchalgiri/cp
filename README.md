@@ -5,8 +5,8 @@
  </summary>
  
  <br>
- - [ ] Pattern Problems
- - [ ] Linear Search
+- [ ] Pattern Problems
+- [ ] Linear Search
 
  
  </details>
