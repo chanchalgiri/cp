@@ -3,7 +3,7 @@
  <summary>Number Theory</summary>
  
  <ul>
-:heavy_check_mark:<a href="cp/Pattern Problems">Pattern Problems</a>
+:heavy_check_mark:Pattern Problems
   <li>Linear Search</li>
  </ul>
  
