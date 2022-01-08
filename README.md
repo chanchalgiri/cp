@@ -1,13 +1,7 @@
 # cp
 <details open>
- <summary>
-   Number Theory
- </summary>
- <br>
-| Topic                                                       |Status|
-| ----------------------------------------------------------- | ---- |
-| <input type="checkbox" disabled checked /> Pattern Problem  |      |
-| <input type="checkbox" disabled /> Linear Search            |      |
- 
+ <summary>Number Theory</summary>
+ + Pattern Problems
+ + Linear Search
  </details>
  
